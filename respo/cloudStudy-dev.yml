@@ -1,4 +1,4 @@
-conifg:
+config:
   env: dev
   author: sl
   eureka:

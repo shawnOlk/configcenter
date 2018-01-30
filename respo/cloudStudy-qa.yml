@@ -1,4 +1,4 @@
-conifg:
+config:
   env: qa
   author: sunlei
   eureka:
