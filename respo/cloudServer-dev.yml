@@ -1,6 +1,7 @@
-eureka:
-  port: 8762
-  hostname: 127.0.0.1
-  registerWithEureka: false
-  fetchRegistry: false
-  connectPort: 8762
+conifg:
+  eureka:
+    port: 8762
+    hostname: 127.0.0.1
+    registerWithEureka: false
+    fetchRegistry: false
+    connectPort: 8762
