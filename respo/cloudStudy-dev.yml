@@ -2,7 +2,7 @@ spring:
   env: dev
   author: sl
   euraka:
-        hostname: 127.0.0.1
-        port: 8762
+    hostname: 127.0.0.1
+    port: 8762
 
         
